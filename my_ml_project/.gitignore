@@ -1,0 +1,7 @@
+get-pip.pydata/processed/
+*.csv
+models/
+*.h5
+__pycache__/
+*.pyc
+get-pip.py
