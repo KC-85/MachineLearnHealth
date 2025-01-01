@@ -1,0 +1,25 @@
+# Ignore large data files
+data/raw/
+*.csv
+
+# Ignore model files
+models/
+*.h5
+
+# Ignore results and temporary files
+results/
+*.json
+*.tmp
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Logs
+*.log
